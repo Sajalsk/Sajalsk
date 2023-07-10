@@ -1,4 +1,5 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/34/57/65/1000_F_434576579_Agh0ebMYRrf3zoMgl4I2qMUlaaUvhYmi.jpg)](https://Sajalsk.in)
+
+[<img align="" alt="Coding" height="300" width="1300" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">](https://Sajalsk.in)
 
 <h1 align="center">Hi I'm Sajal Khandelwal</h1>
 <h3 align="center">A Passionate Full Stack developer</h3>
