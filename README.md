@@ -1,7 +1,7 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)](https://Sajalsk.in)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/04/34/57/65/1000_F_434576579_Agh0ebMYRrf3zoMgl4I2qMUlaaUvhYmi.jpg)](https://Sajalsk.in)
 
 <h1 align="center">Hi I'm Sajal Khandelwal</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A Passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🔭 I’m currently working on **Trackway**
