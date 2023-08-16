@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **sajalsk247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive]([https://drive.google.com/drive/my-drve](https://drive.google.com/file/d/14F2sKbrTPCaRwPv_KpenngFYyTCbaXiF/view?usp=drive_link))
-- 
+- 📄 Know about my experiences:-  [https://drive.google.com/file/d/14F2sKbrTPCaRwPv_KpenngFYyTCbaXiF/view?usp=drive_link](https://drive.google.com/file/d/14F2sKbrTPCaRwPv_KpenngFYyTCbaXiF/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
