@@ -51,7 +51,7 @@
 <a href="https://www.hackerrank.com/sajalsk" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="https://www.leetcode.com/sajalsk01" target="_blank">
+<a href="https://leetcode.com/u/Sajalsk/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
 </a>
 </p>
