@@ -21,7 +21,7 @@
 - 🌱 Always learning and exploring new technologies
 - 👨‍💻 Check out my projects at [my GitHub repositories](https://github.com/Sajalsk?tab=repositories)
 - 📫 Reach me at **sajalsk247@gmail.com**
-- 📄 View my experiences in my [Resume](https://drive.google.com/file/d/1a_wt8s1CWmsV3__VzWVRNCq-N7Jhy4XQ/view?usp=sharing)
+- 📄 View my experiences in my [Resume](https://drive.google.com/file/d/1bJUA9_l1fi790ZreLIocuJVfVF3tiMXj/view?usp=drive_link)
 
 ### 🛠️ Tech Stack
 
