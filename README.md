@@ -1,7 +1,5 @@
-<img width="1900" height="807" alt="image" src="https://github.com/user-attachments/assets/46688423-9c41-4aaf-9679-5e6fed2301ed" /><div align="center">
- 
-  
-<img align="" alt="Coding" height="300" width="1300" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
+
+ <img align="" alt="Coding" height="300" width="1300" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
 </div>
 
 <h1 align="center">👋 Hi, I'm Sajal Khandelwal</h1>
