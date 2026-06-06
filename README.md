@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1900" height="807" alt="image" src="https://github.com/user-attachments/assets/46688423-9c41-4aaf-9679-5e6fed2301ed" /><div align="center">
  
   
 <img align="" alt="Coding" height="300" width="1300" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
@@ -21,7 +21,7 @@
 - 🌱 Always learning and exploring new technologies
 - 👨‍💻 Check out my projects at [my GitHub repositories](https://github.com/Sajalsk?tab=repositories)
 - 📫 Reach me at **sajalsk247@gmail.com**
-- 📄 View my experiences in my [Resume](https://drive.google.com/file/d/1bJUA9_l1fi790ZreLIocuJVfVF3tiMXj/view?usp=drive_link)
+- 📄 View my experiences in my [Resume](https://drive.google.com/file/d/1yHZqRFtxqmlJr8yn9nV36hc57kiuwxY4/view)
 
 ### 🛠️ Tech Stack
 
